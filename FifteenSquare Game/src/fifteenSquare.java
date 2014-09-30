@@ -8,7 +8,7 @@ import java.io.*;
 //Alexander Carson
 //04/30/2014
 
-//This is a GUI-Based implementation of the classic puzzle known as the “fifteen-square” or the “fifteen puzzle”. 
+//This is a GUI-Based implementation in Java of the classic puzzle known as the “fifteen-square” or the “fifteen puzzle”. 
 //This is an old sliding-tile game, dating back to the late 1800’s. 
 //The puzzle consists of a four-by-four grid of tiles held in a frame. 
 //One of the tiles is missing, leaving fifteen tiles.
